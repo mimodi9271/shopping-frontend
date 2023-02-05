@@ -1,38 +1,96 @@
-.App {
-  text-align: center;
+header{
+  width: 100%;
+  height: 70px;
+  background-color: rgb(184, 192, 201);
+  position: sticky;
+  top: 0;
+}
+header nav{
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 20px;
+}
+.navbar{
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 90px;
+  list-style: none;
+  text-decoration: none;
+}
+li{
+  text-decoration: none;
+  margin-left: 50px;
+  list-style: none;
+  font-weight: bold;
+}
+li:hover{
+  color: orange;
+}
+footer{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(184, 192, 201);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.products{
+  padding: 10px;
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.pro{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+  background-color: rgb(225, 236, 236);
+  border: 1px solid #ccc;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+img{
+  width: 100%;
+  height: 60%;
+  border-radius: 10px;
+}
+
+.cartimg{
+  width: 100px;
+  height: 80px;
+}
+
+.carts{
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.cart{
+  width: 800px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.exit{
+  margin-left: 20px;
+  font-weight: bold;
 }

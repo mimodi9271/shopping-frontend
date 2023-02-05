@@ -1,0 +1,118 @@
+{
+  "product": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "price" : 120,
+      "title": "accusamus beatae ad ",
+      "url": "https://via.placeholder.com/600/92c952",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "price" : 112,
+      "title": "reprehenderit est ",
+      "url": "https://via.placeholder.com/600/771796",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "price" : 116,
+      "title": "officia porro iure ",
+      "url": "https://via.placeholder.com/600/24f355",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "price" : 211,
+      "title": "culpa odio esse ",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "price" : 182,
+      "title": "natus nisi omnis ",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "price" : 26,
+      "title": "accusamus ea ",
+      "url": "https://via.placeholder.com/600/56a8c2",
+      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+      "albumId": 1,
+      "id": 7,
+      "price" : 112,
+      "title": "officia delectus ",
+      "url": "https://via.placeholder.com/600/b0f7cc",
+      "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "price" : 12,
+      "title": "aut porro officiis ",
+      "url": "https://via.placeholder.com/600/54176f",
+      "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+      "albumId": 1,
+      "id": 9,
+      "price" : 102,
+      "title": "qui eius qui ",
+      "url": "https://via.placeholder.com/600/51aa97",
+      "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+      "albumId": 1,
+      "id": 10,
+      "price" : 73,
+      "title": "beatae et ",
+      "url": "https://via.placeholder.com/600/810b14",
+      "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+    },
+    {
+      "albumId": 1,
+      "id": 11,
+      "price" : 63,
+      "title": "nihil at ",
+      "url": "https://via.placeholder.com/600/1ee8a4",
+      "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+      "albumId": 1,
+      "id": 12,
+      "price" : 98,
+      "title": "mollitia soluta ut",
+      "url": "https://via.placeholder.com/600/66b7d2",
+      "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+    },
+    {
+      "albumId": 1,
+      "id": 13,
+      "price" : 112,
+      "title": "repudiandae iusto",
+      "url": "https://via.placeholder.com/600/197d29",
+      "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    },
+    {
+      "albumId": 1,
+      "id": 14,
+      "price" : 63,
+      "title": "est necessitatibus",
+      "url": "https://via.placeholder.com/600/61a65",
+      "thumbnailUrl": "https://via.placeholder.com/150/61a65"
+    }
+  ],
+  "cart": [
+  ]
+}
